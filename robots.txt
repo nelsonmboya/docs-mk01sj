@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-yk57q1.compagnon-destrich.fr/sitemap.xml
